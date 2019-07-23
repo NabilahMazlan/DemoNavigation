@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo Navigation</string>
+    <string name="activity">New Activity</string>
+</resources>
